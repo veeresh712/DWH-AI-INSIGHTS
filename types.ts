@@ -38,4 +38,6 @@ export interface TableDefinition {
   name: string;
   database: string;
   schema: string;
+  type: 'manual' | 'file';
+  fileName?: string;
 }
