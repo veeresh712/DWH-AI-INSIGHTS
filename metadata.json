@@ -1,0 +1,5 @@
+{
+  "name": "DWH-AI Insight Pro",
+  "description": "A natural language interface for your Data Warehouse. Query sales, stock, and usage data using AI-driven analytics and dynamic visualizations.",
+  "requestFramePermissions": []
+}
